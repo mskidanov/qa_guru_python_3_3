@@ -1,2 +1,5 @@
 def test_example():
-    assert 1 == 3
+    assert 3 > 1
+
+def test_machael():
+    assert 0 == 0
