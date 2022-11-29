@@ -9,3 +9,8 @@ def test_1():
 
 def test_02():
     assert 3 - 1 == 2
+
+def test_1():
+    a = int(input())
+    if a % 2 == 0:
+        print('Число четнон')
